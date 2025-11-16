@@ -1,6 +1,6 @@
-<!-- ⚡ CYBERPUNK ORANGE GLOW BANNER (100% WORKING) -->
+<!-- ⚡ CYBERPUNK ORANGE GLOW BANNER (PERMANENT LINK – 100% WORKING) -->
 <p align="center">
-  <img src="https://i.imgur.com/2YQoEvk.png" width="1000px">
+  <img src="https://raw.githubusercontent.com/abyss-labs/assets/main/banners/tech-orange-dark.png" width="1000px">
 </p>
 
 <!-- Badges -->
@@ -27,10 +27,7 @@
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70"/>
-
-<!-- Working Scikit-Learn Icon -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70"/>
-
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="70"/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="70"/>
