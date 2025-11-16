@@ -1,16 +1,20 @@
-<!-- ⚡ CYBERPUNK ORANGE GLOW BANNER (PERMANENT LINK – 100% WORKING) -->
+<!-- Wave Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:F97316&height=230&section=header&text=Deepak%20Vishwakarma&fontAlignY=40&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abyss-labs/assets/main/banners/tech-orange-dark.png" width="1000px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Vishwakarma;Data+Science+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+React+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Badges -->
+<!-- Quick Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepakvk07&label=PROFILE+VIEWS&style=for-the-badge&color=000000&labelColor=F97316" />
-  <img src="https://img.shields.io/github/followers/Deepakvk07?style=for-the-badge&color=000000&labelColor=F97316" />
-  <img src="https://img.shields.io/badge/Role-Data%20Science%20%7C%20Machine%20Learning-F97316?style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=Deepakvk07&label=Profile%20Views&style=for-the-badge&color=0F172A" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Deepakvk07?logo=github&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-F97316?style=for-the-badge" alt="focus" />
 </p>
 
----
 
 # 🧑‍💻 About Me
 - 🎓 CS/IT student specialising in **Data Science & Machine Learning**  
