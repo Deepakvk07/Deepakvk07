@@ -34,7 +34,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65"/>
 
 <!-- Scikit-Learn -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="65" style="background-color:black; padding:8px; border-radius:10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" />
+
 
 
 <!-- TensorFlow -->
