@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepakvk07&label=Views&style=for-the-badge&color=000000&labelColor=F97316" />
   <img src="https://img.shields.io/github/followers/Deepakvk07?style=for-the-badge&color=000000&labelColor=F97316" />
-  <img src="https://img.shields.io/badge/Domain-Data%20Science%20%7C%20Machine%20Learning-F97316?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Domain-Data%20Science%20%7C%20Machine%20Learning-F97316?style=for-the-badge&labelColor=ffffff" />
 </p>
 
 ---
