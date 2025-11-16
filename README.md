@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20ML%20%7C%20SQL-F97316?style=for-the-badge&labelColor=000000" />
 </p>
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="center" alt="WELCOME">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" alt="WELCOME">
 
 # 🧑‍💻 About Me
 - 🎓 CS/IT student specialising in **Data Science & Machine Learning**  
