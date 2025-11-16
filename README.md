@@ -34,7 +34,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65"/>
 
 <!-- Scikit-Learn -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="65" style="background-color:black; padding:8px; border-radius:10px;"/>
+
 
 <!-- TensorFlow -->
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="65"/>
