@@ -1,19 +1,18 @@
 <!-- Wave Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:F97316&height=230&section=header&text=Deepak%20Vishwakarma&fontAlignY=40&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F97316&height=230&section=header&text=Deepak%20Vishwakarma&fontAlignY=40&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Pure DS + DA Version) -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Vishwakarma;Data+Science+%26+Machine+Learning+Enthusiast;Python+%7C+Data Science+Data Analyst;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Vishwakarma;Aspiring+Data+Scientist;Data+Analyst+%7C+Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Pandas+%7C+NumPy;Transforming+Data+into+Insights+%F0%9F%94%8D" />
 </p>
 
-<!-- Quick Badges -->
+<!-- Quick Badges (DS/DA Focused) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepakvk07&label=Profile%20Views&style=for-the-badge&color=0F172A" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Deepakvk07?logo=github&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-F97316?style=for-the-badge" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=Deepakvk07&label=Profile+Views&style=for-the-badge&color=000000&labelColor=F97316" />
+  <img src="https://img.shields.io/badge/Role-Data+Scientist%20%7C%20Data+Analyst-F97316?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20ML%20%7C%20SQL-F97316?style=for-the-badge&labelColor=000000" />
 </p>
+
 
 
 # 🧑‍💻 About Me
